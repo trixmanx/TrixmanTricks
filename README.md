@@ -1,5 +1,7 @@
 # 🔥 TrixmanTricks - Интерактивные Дебаффы для Стримеров.
 
+![Как работает TrixmanTricks](assets/HOW-IT-WORKS-TrixmanTricks.jpg)
+
 > Зрители испортят тебе игру, но тебе понравится!
 
 ---
